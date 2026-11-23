@@ -1,9 +1,10 @@
-<div align="center">
+﻿<div align="center">
 
 # Olá, eu sou o Davi Miranda Vaz 👋
 
 ### Desenvolvedor Full-Stack & Back-End | Ciência da Computação (IFSULDEMINAS)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Davi_Miranda_Vaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-m-93ba25279/)
 [![GitHub](https://img.shields.io/badge/GitHub-DaviMirandaVaz-181717?style=for-the-badge&logo=github)](https://github.com/DaviMirandaVaz)
 [![Email](https://img.shields.io/badge/Email-davi.miranda%40alunos.ifsuldeminas.edu.br-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davi.miranda@alunos.ifsuldeminas.edu.br)
 
